@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "network": "udp",
+      "port": [4950, 4955]
+    }
+  ]
+}
